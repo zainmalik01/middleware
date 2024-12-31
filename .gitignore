@@ -1,0 +1,21 @@
+# Node modules directory
+/node_modules
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Yarn specific files
+yarn-error.log
+
+# TypeScript build output
+/dist
+/build
+
+# IDE and editor folders (e.g., Visual Studio Code)
+.vscode/
+
+# macOS specific files
+.DS_Store
